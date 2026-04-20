@@ -41,7 +41,6 @@ RescueMeals not only tackles the pressing issue of food wastage but also harness
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JSON Web Tokens (JWT)
-- **Payment Gateway**: Razorpay
 - **Email Service**: Nodemailer
 - **Styling**: CSS with Bootstrap
 - **Deployment**: Heroku for backend, Vercel for frontend
@@ -52,24 +51,4 @@ RescueMeals not only tackles the pressing issue of food wastage but also harness
 3. Install dependencies: `npm install`
 4. Run the server: `npm start` (in the project root)
 
-## Video Demonstration
 
-[RescueMeals Video Demonstration link.](https://youtu.be/odrisBjAnTo)
-
-## Razorpay Integration
-To enable online payments through RescueMeals using Razorpay:
-1. Sign up for a Razorpay account: [https://razorpay.com](https://razorpay.com)
-
-## Authors
-
-- [@arpitjaswal](https://www.github.com/arpitjaswal)
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-# Rescue-food-
-# Rescue-food-
-# Rescue-food-
-# Rescue-food
-# Rescue-food
-# Rescue-food--food-donating
-# Rescue-food--food-donating
